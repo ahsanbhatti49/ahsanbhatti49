@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsanbhatti49
 - 👀 I’m interested in design patterns
-- 🌱 I’m currently learning MVI and jectpack compose-ui
+- 🌱 I’m currently learning jetpack compose ui
 - 💞️ I’m looking to collaborate on android design patterns
 - 📫 How to reach me ahsanbhatti49@gmail.com
 
